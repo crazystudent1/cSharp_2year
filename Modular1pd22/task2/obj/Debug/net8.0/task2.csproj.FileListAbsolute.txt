@@ -1,0 +1,15 @@
+D:\robochii\yroki\c#\Modular1pd22\task2\bin\Debug\net8.0\task2.exe
+D:\robochii\yroki\c#\Modular1pd22\task2\bin\Debug\net8.0\task2.deps.json
+D:\robochii\yroki\c#\Modular1pd22\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+D:\robochii\yroki\c#\Modular1pd22\task2\bin\Debug\net8.0\task2.dll
+D:\robochii\yroki\c#\Modular1pd22\task2\bin\Debug\net8.0\task2.pdb
+D:\robochii\yroki\c#\Modular1pd22\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\robochii\yroki\c#\Modular1pd22\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+D:\robochii\yroki\c#\Modular1pd22\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+D:\robochii\yroki\c#\Modular1pd22\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+D:\robochii\yroki\c#\Modular1pd22\task2\obj\Debug\net8.0\task2.sourcelink.json
+D:\robochii\yroki\c#\Modular1pd22\task2\obj\Debug\net8.0\task2.dll
+D:\robochii\yroki\c#\Modular1pd22\task2\obj\Debug\net8.0\refint\task2.dll
+D:\robochii\yroki\c#\Modular1pd22\task2\obj\Debug\net8.0\task2.pdb
+D:\robochii\yroki\c#\Modular1pd22\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+D:\robochii\yroki\c#\Modular1pd22\task2\obj\Debug\net8.0\ref\task2.dll
