@@ -1,0 +1,6 @@
+HELLO WORLD!
+---
+Number of characters in the text: 12
+---
+Number of words in the text: 2
+---
